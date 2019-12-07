@@ -1,0 +1,49 @@
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\Script Viewer.exe.config
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\Script Viewer.exe
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\Script Viewer.pdb
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script Viewer.csprojAssemblyReference.cache
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script_Viewer.Home.resources
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script_Viewer.Properties.Resources.resources
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script Viewer.csproj.GenerateResource.cache
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script Viewer.exe.licenses
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script Viewer.csproj.CoreCompileInputs.cache
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script Viewer.csproj.CopyComplete
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script Viewer.exe
+C:\Users\XKE\source\repos\Script Viewer\Script Viewer\obj\Debug\Script Viewer.pdb
